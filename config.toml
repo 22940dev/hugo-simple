@@ -1,4 +1,4 @@
-baseurl = "https://endormi.io/"
+baseurl = "https://hugo-simple.vercel.app/"
 title = "Endormi"
 theme = "hugo-coder"
 languagecode = "en"
